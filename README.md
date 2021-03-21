@@ -20,8 +20,6 @@ From the results, we can see that the green stocks' performance was much better 
 
 As we can see in the images below, by refactoring the code we were able to improve the execution time from 0.9 seconds to 0.1 seconds.
 
-Looking
-
 ![Old Code (2017)](images/old_code_2017.png)
 
 ![New Code (2017)](resources/VBA_Challenge_2017.png)
